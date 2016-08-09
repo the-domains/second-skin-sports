@@ -1,5 +1,6 @@
-layout_spectrum: 0.6490859729237854
 typography_spectrum: 0.9461899646557868
+content_rating:
+  adult: false
 color:
   brandStrength: 0.8445585034787655
   lightness: 0.3788425289094448
@@ -11,5 +12,9 @@ color:
     - '#CD5334'
     - '#EDB88B'
     - '#FAD8D6'
+layout_spectrum: 0.6490859729237854
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/50a741e4-60a6-40f6-82ae-81f76f9ecabb.jpg
 name: Second Skin Sports
+title: Designed to move
 description: Designed to move
